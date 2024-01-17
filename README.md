@@ -1,4 +1,4 @@
-# MIT-2023-Deep-Learning    
+# MIT-2024-Deep-Learning    
 
 A collection of Phython scripts resulting from the MIT deep leaning 2024 course.  
 http://introtodeeplearning.com/  
