@@ -1,7 +1,7 @@
 !pip install comet_ml > /dev/null 2>&1
 import comet_ml
 
-COMET_API_KEY = "clkQRzS7H6PGUsqREn9CUVDvS"
+COMET_API_KEY = "Use you own API key for comet.com"
 
 # Import Tensorflow 2.0
 import tensorflow as tf
