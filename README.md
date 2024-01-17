@@ -1,7 +1,7 @@
 # MIT-2023-Deep-Learning    
-http://introtodeeplearning.com/  
 
-A collection of Phython scripts resulting from the MIT deep leaning 2024 course.   
+A collection of Phython scripts resulting from the MIT deep leaning 2024 course.  
+http://introtodeeplearning.com/  
 
 Different models for different problem domains:  
 
