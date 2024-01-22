@@ -7,8 +7,8 @@ Different models for different problem domains:
 
 Perceptron : Fully connected layers of neurons  
 Recurrent neural network : Data with a temporal component eg: speach, music  
-Variational auto encoder : Unsupervised learning  
-Convolutional neural network : Generate unlabeled data   
+Variational auto encoder : Unsupervised learning (eg. debiasing a data set)  
+Convolutional neural network : Image processing   
 Generative adversarial network : To generate data for unsupervised learning
 Reinforcement learning: Gaming  
 
