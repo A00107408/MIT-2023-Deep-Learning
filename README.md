@@ -5,7 +5,7 @@ http://introtodeeplearning.com/
 
 Different models for different problem domains:  
 
-Perceptron : Fully connected layers of neurons  (eg. hand writting detection)
+Perceptron : Fully connected layers of neurons  (eg. hand writting detection)  
 Recurrent neural network : Data with a temporal component eg: speach, music  
 Variational auto encoder : Unsupervised learning (eg. debiasing a data set)  
 Convolutional neural network : Images (eg. facial recognition)   
